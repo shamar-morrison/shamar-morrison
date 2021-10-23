@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Horizon App](https://huntxr.netlify.app/)
 
-- 🌱 I’m currently learning **Next JS,TypeScript, React Native**
+- 🌱 I’m currently learning **Next JS, TypeScript, React Native**
 
 - 👨‍💻 All of my projects are available at [https://shamar-morrison.netlify.app/](https://shamar-morrison.netlify.app/)
 
