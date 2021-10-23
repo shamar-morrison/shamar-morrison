@@ -5,11 +5,11 @@
 
 - 🔭 I’m currently working on [Horizon App](https://huntxr.netlify.app/)
 
-- 🌱 I’m currently learning **React JS, React Native**
+- 🌱 I’m currently learning **Next JS,TypeScript, React Native**
 
 - 👨‍💻 All of my projects are available at [https://shamar-morrison.netlify.app/](https://shamar-morrison.netlify.app/)
 
-- 💬 Ask me about **React JS, Front End Development**
+- 💬 Ask me about **React JS, Front End Development, React Native**
 
 - 📫 How to reach me **shamar.webdev@gmail.com**
 
