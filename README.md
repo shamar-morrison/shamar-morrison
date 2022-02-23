@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://shamar-morrison.netlify.app/](https://shamar-morrison.netlify.app/)
 
-- 💬 Ask me about **React JS, Front End Development, React Native**
+- 💬 Ask me about **anything related to Front-End Web Development**
 
 - 📫 How to reach me **shamar.webdev@gmail.com**
 
