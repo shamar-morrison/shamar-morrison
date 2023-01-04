@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Next JS, TypeScript, React Native**
 
-- 👨‍💻 All of my projects are available at [My Portfolio](https://shamar-morrison.netlify.app/)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://shamar.dev/)
 
 - 💬 Ask me about **anything related to Web and Mobile Development**
 
