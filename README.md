@@ -3,17 +3,17 @@
 
 <p align="left"> <a href="https://twitter.com/theavgcoder" target="blank"><img src="https://img.shields.io/twitter/follow/theavgcoder?logo=twitter&style=for-the-badge" alt="theavgcoder" /></a> </p>
 
-- 🔭 I’m currently working on [Horizon App](https://huntxr.netlify.app/)
+- 🔭 I’m currently working on [Horizon App](https://horizonmovies.xyz/)
 
 - 🌱 I’m currently learning **Next JS, TypeScript, React Native**
 
-- 👨‍💻 All of my projects are available at [https://shamar-morrison.netlify.app/](https://shamar-morrison.netlify.app/)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://shamar-morrison.netlify.app/)
 
-- 💬 Ask me about **anything related to Front-End Web Development**
+- 💬 Ask me about **anything related to Web and Mobile Development**
 
 - 📫 How to reach me **shamar.webdev@gmail.com**
 
-- 📄 Know about my experiences [https://github.com/shamar-morrison/portfolio/raw/main/src/img/Shamar_Morrison_Web_Developer_Resume.pdf](https://github.com/shamar-morrison/portfolio/raw/main/src/img/Shamar_Morrison_Web_Developer_Resume.pdf)
+- 📄 Know about my experiences [My Resume](https://github.com/shamar-morrison/portfolio/raw/main/src/img/Shamar_Morrison_Web_Developer_Resume.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
