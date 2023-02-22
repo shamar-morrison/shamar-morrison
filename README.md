@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Shamar Morrison</h1>
-<h3 align="center">A passionate frontend developer from Jamaica</h3>
+<h3 align="center">A Passionate Software Engineer from Jamaica</h3>
 
 <p align="left"> <a href="https://twitter.com/theavgcoder" target="blank"><img src="https://img.shields.io/twitter/follow/theavgcoder?logo=twitter&style=for-the-badge" alt="theavgcoder" /></a> </p>
 
 - 🔭 I’m currently working on [Horizon App](https://horizonmovies.xyz/)
 
-- 🌱 I’m currently learning **Next JS, TypeScript, React Native**
+- 🌱 I’m currently learning **Next JS, TypeScript, React Native, Django, PostgreSQL**
 
 - 👨‍💻 All of my projects are available at [My Portfolio](https://shamar.dev/)
 
