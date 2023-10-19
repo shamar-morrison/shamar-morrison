@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/theavgcoder" target="blank"><img src="https://img.shields.io/twitter/follow/theavgcoder?logo=twitter&style=for-the-badge" alt="theavgcoder" /></a> </p>
 
-- 🔭 I’m currently working on [Horizon App]([https://horizonmovies.xyz/](https://master--huntxr.netlify.app/))
+- 🔭 I’m currently working on [Horizon App](https://master--huntxr.netlify.app/)
 
 - 🌱 I’m currently learning **Next JS, TypeScript, React Native, Django, PostgreSQL**
 
