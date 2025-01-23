@@ -13,8 +13,6 @@
 
 - 📫 How to reach me **shamar.webdev@gmail.com**
 
-- 📄 Know about my experiences [My Resume](https://github.com/shamar-morrison/portfolio/raw/main/src/img/Shamar_Morrison_Web_Developer_Resume.pdf)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/theavgcoder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="theavgcoder" height="30" width="40" /></a>
