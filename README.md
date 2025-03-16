@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shamar Morrison</h1>
 <h3 align="center">A Passionate Software Engineer from Jamaica</h3>
 
-- 🔭 I’m currently working on [Horizon App](https://master--huntxr.netlify.app/)
-
-- 🌱 I’m currently learning **Next JS, TypeScript, React Native, Django, PostgreSQL**
-
 - 👨‍💻 All of my projects are available at [My Portfolio](https://shamar.dev/)
 
 - 💬 Ask me about **anything related to Web and Mobile Development**
