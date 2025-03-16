@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Shamar Morrison</h1>
-<h3 align="center">A Passionate Software Engineer from Jamaica</h3>
+<h1 align="center">Hi, I'm Shamar 👋🏼</h1>
+<h3 align="center">A Passionate Software Engineer from Jamaica 🇯🇲</h3>
 
-- 👨‍💻 All of my projects are available at [My Portfolio](https://shamar.dev/)
+- 👨‍💻 Check out [My Portfolio](https://shamar.dev/)
 
 - 💬 Ask me about **anything related to Web and Mobile Development**
 
-- 📫 How to reach me **shamar.webdev@gmail.com**
+- 📫 You can reach me @ **shamar.webdev@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
