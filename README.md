@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Shamar 👋🏼</h1>
 <h3 align="center">A Passionate Software Engineer from Jamaica 🇯🇲</h3>
 
-- 👨‍💻 Check out [My Portfolio](https://shamar.dev/)
+- 👨‍💻 Check out [My Portfolio](https://github.com/shamar-morrison)
 - 📫 You can reach me @ **shamar.webdev@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
